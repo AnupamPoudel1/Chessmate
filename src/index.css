@@ -7,3 +7,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.boardcss:nth-child(2){
+  background-color: white;
+}
+
+.boardcss:nth-child(1){
+  background-color: black;
+}
